@@ -2,14 +2,14 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
- article p:first-child{
+ div p:first-child{
 	background-color:black;
 	 color:white
 }
-article p:nth-child(2){
+div p:nth-child(2){
    color:green;
 }
-article p:last-child{
+div p:last-child{
 	color:orange;
 }
 ul li:nth-child(even){
